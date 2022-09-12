@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linn Cao Nguyen Phuong</h1>
 <h3 align="center">A Computer Science Major at Colby College</h3>
 
-- 🔭 I’m currently working on [Virtual Reality research project](https://github.com/linncao/3D_Chess_Set_in_VR)
+- 🔭 I’m currently working on a [Virtual Reality research project](https://github.com/linncao/3D_Chess_Set_in_VR)
 
 - 🌱 I’m currently learning **HTML, CSS**
 
