@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Virtual Reality research project](https://github.com/linncao/3D_Chess_Set_in_VR)
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **conducting pilot tests and experiments for my VR project**
 
