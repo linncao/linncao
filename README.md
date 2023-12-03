@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/linncao?tab=repositories](https://github.com/linncao?tab=repositories)
 
-- 📫 How to reach me **lcaong24@colby.edu**
+- 📫 How to reach me **lcaong24@colby.edu** / **kaolinn0503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
